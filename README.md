@@ -1,0 +1,1 @@
+Portfolio dashboard: [dashboard](Screenshot 2024-08-18 172342.png) See full dashboard here : (https://app.powerbi.com/reportEmbed?reportId=87c69413-ebf8-4491-a951-5b7299ab6a42&autoAuth=true&ctid=07ef85de-3d07-410d-b72d-0cd4c776ce78)
